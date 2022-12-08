@@ -1,0 +1,90 @@
+{
+  "projects": [
+    {
+      "name": "Trabalho atualizado",
+      "budget": "20000",
+      "cost": 3000,
+      "services": [
+        {
+          "name": "Contratar Dev React",
+          "cost": "2000",
+          "description": "Fazer toda parte de react",
+          "id": "32814797-0042-4dbf-8fe3-b955b1d5c166"
+        },
+        {
+          "name": "Contratar um Design",
+          "cost": "1000",
+          "description": "Faz a parte de design",
+          "id": "140ec915-0dbb-43eb-b5f8-83df8d2ffa38"
+        }
+      ],
+      "id": 3,
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      }
+    },
+    {
+      "budget": "5000",
+      "name": "Teste",
+      "cost": 0,
+      "services": [],
+      "id": 5,
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      }
+    },
+    {
+      "name": "Meu projeto",
+      "budget": "15000",
+      "cost": 0,
+      "services": [],
+      "id": 6,
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      }
+    },
+    {
+      "name": "Meu projeto 2",
+      "budget": "14000",
+      "cost": 0,
+      "services": [],
+      "id": 7,
+      "category": {
+        "id": "3",
+        "name": "Design"
+      }
+    },
+    {
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "budget": "5000",
+      "name": "Meu projeto 3",
+      "cost": 0,
+      "services": [],
+      "id": 9
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
